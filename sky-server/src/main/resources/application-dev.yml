@@ -8,8 +8,8 @@ sky:
     password: 123456
   alioss:
     endpoint: oss-cn-chengdu.aliyuncs.com
-    access-key-id: LTAI5tDCR6zDcSzNHzH2Qwbm
-    access-key-secret: E8UJkQIXDhtOQ7xTCRc0l32vEXTXOb
+    access-key-id:
+    access-key-secret:
     bucket-name: sky-take-out-caolei
 
   redis:
